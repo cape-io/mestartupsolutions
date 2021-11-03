@@ -5,7 +5,7 @@ backend:
   auth_endpoint: auth
   base_url: https://auth.cape.io/
 local_backend: true
-publish_mode: editorial_workflow # Allows you to save drafts before publishing them
+# publish_mode: editorial_workflow # Allows you to save drafts before publishing them
 media_folder: static/uploads # Media files will be stored in the repo under static/images/uploads
 public_folder: /uploads # The src attribute for uploaded media will begin with /images/uploads
 
