@@ -1,0 +1,25 @@
+root: true
+extends:
+  - eslint:recommended
+  - prettier
+  - airbnb-base
+  - plugin:import/errors
+  - plugin:import/warnings
+  - plugin:lodash-fp/recommended
+plugins:
+  - svelte3
+  - import
+  - lodash-fp
+overrides:
+  - files:
+    - "*.svelte"
+    processor: svelte3/svelte3
+parserOptions:
+  sourceType: module
+  ecmaVersion: 2019
+env:
+  browser: true
+  es2017: true
+  node: true
+rules:
+  semi: [2, never]
