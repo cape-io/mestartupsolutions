@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import _ from 'lodash/fp'
+import _ from 'lodash/fp.js'
 import database from '$lib/data/database.json'
 
 export function get() {

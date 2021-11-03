@@ -1,5 +1,5 @@
 <script context="module">
-	import _ from 'lodash/fp'
+	import _ from 'lodash/fp.js'
   /**
 	 * @type {import('@sveltejs/kit').Load}
    * { page, fetch, session, stuff } = props
