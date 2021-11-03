@@ -20,4 +20,4 @@ title: About ME Startup Solutions
 * reporting
 * education
 
-<!--EndFragment-->
+ME startup solutions is primarily focused on helping startups and investors located in or associated with Maine.
