@@ -2,7 +2,7 @@
 unpublished: false
 title: About ME Startup Solutions
 ---
-# *ME startup solutions can help you connect the dots*
+# *ME startup solutions connects the dots between startups and investors.  Our primay area of focus is at the intersection between startups and investors.*  
 
 ## for companies
 
