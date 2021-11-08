@@ -9,11 +9,11 @@ For companies
 * Build financial projection models 
 * 409A valuations for stock option grants
 * Create, develop, and execute investor, director, and other stakeholder reports standards and documents
+* Identifying and reporting on KPIs, OKR, and benchmarking metrics
 * Management and development of finacial reporting
 * Planning for and executing capital raises: pitch decks, due diligence management, due diligence materials, etc
+* Planning toward liquidation events, mergers, and aquisitions
 * Other CFO and operational assistance as required
-
-
 
 For investors
 
