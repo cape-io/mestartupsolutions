@@ -6,7 +6,7 @@ title: About ME Startup Solutions
 
 ## for companies
 
-* fraction CFO services
+* fractional CFO services
 * capital planning
 * stakeholder reporting
 * budgeting & financials
